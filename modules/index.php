@@ -9,7 +9,7 @@
         </div>
         <div class="video-background">
             <video autoplay muted loop id="myVideo">
-                <source src="img/concert-loop.mp4" type="video/mp4" />
+                <source src="/img/concert-loop.mp4" type="video/mp4" />
             </video>
         </div>
     </div>
@@ -22,7 +22,7 @@
                     <div class="item-content">
                         <div class="img-header">
                             <a class="pattern" href="#">
-                                <img src="img/event-img.png" alt="event-img" />
+                                <img src="/img/event-img.png" alt="event-img" />
                             </a>
                         </div>
                     </div>
@@ -75,7 +75,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="img/latest-blog-news-1.png" alt="latest-news-img-1" />
+                                    <img src="/img/latest-blog-news-1.png" alt="latest-news-img-1" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -86,7 +86,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="img/latest-blog-news-2.png" alt="latest-news-img-2" />
+                                    <img src="/img/latest-blog-news-2.png" alt="latest-news-img-2" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -96,7 +96,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="img/latest-blog-news-3.png" alt="latest-news-img-3" />
+                                    <img src="/img/latest-blog-news-3.png" alt="latest-news-img-3" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -106,7 +106,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="img/latest-blog-news-4.png" alt="latest-news-img-4" />
+                                    <img src="/img/latest-blog-news-4.png" alt="latest-news-img-4" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -116,7 +116,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="img/latest-blog-news-5.png" alt="latest-news-img-5" />
+                                    <img src="/img/latest-blog-news-5.png" alt="latest-news-img-5" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -163,7 +163,7 @@
                                 </div>
                                 <div class="testimonial-detail-inner">
                                     <div class="testimonial-image">
-                                        <img src="img/testimonial-profile-1.png" alt="testi-1" />
+                                        <img src="/img/testimonial-profile-1.png" alt="testi-1" />
                                     </div>
                                     <div class="test-info">
                                         <h5 class="testi-author">Lalo Giles</h5>
@@ -180,7 +180,7 @@
                                 </div>
                                 <div class="testimonial-detail-inner">
                                     <div class="testimonial-image">
-                                        <img src="img/testimonial-profile-2.png" alt="testi-2" />
+                                        <img src="/img/testimonial-profile-2.png" alt="testi-2" />
                                     </div>
                                     <div class="test-info">
                                         <h5 class="testi-author">Luis Manuel Higuera Magaña</h5>
@@ -201,7 +201,7 @@
                                 </div>
                                 <div class="testimonial-detail-inner">
                                     <div class="testimonial-image">
-                                        <img src="img/testimonial-profile-2.png" alt="testi-2" />
+                                        <img src="/img/testimonial-profile-2.png" alt="testi-2" />
                                     </div>
                                     <div class="test-info">
                                         <h5 class="testi-author">Jose Ochoa</h5>

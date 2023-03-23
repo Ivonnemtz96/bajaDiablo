@@ -6,7 +6,7 @@
                     <!-- LOGO START
                                 ============================================= -->
                     <div class="logo">
-                        <a href="index.html"><img src="img/dugem-logos.png" alt="Dugem Logo" /></a>
+                        <a href="index.html"><img src="/img/dugem-logos.png" alt="Dugem Logo" /></a>
                     </div>
                     <!-- LOGO END -->
                 </div>
