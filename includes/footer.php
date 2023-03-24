@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="foot-col column column-1 text-center clearfix">
                         <div class="logo-footer">
-                            <a href="index.html"><img src="/img/dugem-logos.png?=1" alt="Logo-Footer" /></a>
+                            <a href="/"><img src="/img/dugem-logos.png?=1" alt="Logo-Footer" /></a>
                         </div>
                     </div>
 
@@ -14,11 +14,11 @@
                             <ul>
                                 
                                 <li class="soc-icon">
-                                    <a href="#"><i class="icon icon-themify-17"></i>Facebook</a>
+                                    <a target="_blank" href="https://www.facebook.com/profile.php?id=100086428643391&sk=reviews"><i class="icon icon-themify-17"></i>Facebook</a>
                                 </li>
                                 
                                 <li class="soc-icon">
-                                    <a href="#"><i class="icon icon-instagram"></i>Instagram</a>
+                                    <a target="_blank" href="https://www.instagram.com/baja_diablo/"><i class="icon icon-instagram"></i>Instagram</a>
                                 </li>
                             </ul>
                         </div>
