@@ -14,7 +14,7 @@
                             <ul>
                                 
                                 <li class="soc-icon">
-                                    <a target="_blank" href="https://www.facebook.com/profile.php?id=100086428643391&sk=reviews"><i class="icon icon-themify-17"></i>Facebook</a>
+                                    <a target="_blank" href="https://www.facebook.com/profile.php?id=100086428643391"><i class="icon icon-themify-17"></i>Facebook</a>
                                 </li>
                                 
                                 <li class="soc-icon">

@@ -33,7 +33,7 @@
                 <div class="global-counter col-span-4 sm:col-span-12 res:col-span-12">
                     <div class="item-content">
                         <div class="img-header">
-                            <a class="pattern" target="_blank" href="https://www.facebook.com/profile.php?id=100086428643391&sk=reviews">
+                            <a class="pattern" target="_blank" href="https://www.facebook.com/profile.php?id=100086428643391">
                             <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;" > baja_diablo</h3>
                                 <img src="/img/face.png" alt="event-img" />
                             </a>
@@ -201,9 +201,7 @@
                                     </p>
                                 </div>
                                 <div class="testimonial-detail-inner">
-                                    <div class="testimonial-image">
-                                        <img src="/img/testimonial-profile-1.png" alt="testi-1" />
-                                    </div>
+                                    
                                     <div class="test-info">
                                         <h5 class="testi-author">Lalo Giles</h5>
                                     </div>
@@ -218,9 +216,7 @@
                                     </p>
                                 </div>
                                 <div class="testimonial-detail-inner">
-                                    <div class="testimonial-image">
-                                        <img src="/img/testimonial-profile-2.png" alt="testi-2" />
-                                    </div>
+                                   
                                     <div class="test-info">
                                         <h5 class="testi-author">Luis Manuel Higuera Magaña</h5>
                                     </div>
@@ -239,9 +235,7 @@
                                     </p>
                                 </div>
                                 <div class="testimonial-detail-inner">
-                                    <div class="testimonial-image">
-                                        <img src="/img/testimonial-profile-2.png" alt="testi-2" />
-                                    </div>
+                                   
                                     <div class="test-info">
                                         <h5 class="testi-author">Jose Ochoa</h5>
                                     </div>

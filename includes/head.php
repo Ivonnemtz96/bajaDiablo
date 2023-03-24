@@ -22,5 +22,5 @@
      <!-- magnific popup -->
      <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/magnific-popup.css">
     <!-- DOCUMENT TITLES================================== -->
-    <title>Dugem | Dugem HTML Themes</title>
+    <title>Baja Diablo</title>
 </head>
