@@ -24,7 +24,7 @@
                         <div class="img-header">
                             <a class="pattern" href="/menu">
                             <h3  style="margin-bottom: -8rem; margin-left: 5rem; color:#fab21a;"> Menú</h3>
-                                <img style="width: 124px;" src="/img/menu.png" alt="event-img" />  
+                                <img style="width: 124px;" src="/img/menu.png?=1" alt="event-img" />  
                             </a>
                         </div>
                     </div>
