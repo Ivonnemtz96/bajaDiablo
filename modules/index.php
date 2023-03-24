@@ -3,6 +3,7 @@
     <!-- MAIN VIDEO BACKGROUND -->
     <div class="main-video">
         <div class="image-background"></div>
+        <div class=" bg_cel" style="background-image: url(img/logo2.png);"></div>
         <div class="image-title mt-5">
         </div>
         <div class="video-background">
