@@ -18,7 +18,7 @@
                                 </li>
                                 
                                 <li class="soc-icon">
-                                    <a target="_blank" href="https://www.instagram.com/baja_diablo/"><i class="icon icon-instagram"></i>Instagram</a>
+                                    <a target="_blank" href="https://www.instagram.com/baja_diablo/"><i class="icon icon-social-instagram"></i>Instagram</a>
                                 </li>
                             </ul>
                         </div>

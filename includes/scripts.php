@@ -10,8 +10,11 @@
 <script src="/js/swiper-bundle.min.js"></script>
 <script src="/js/lightgallery.min.js"></script>
 <script src="/js/aos.js"></script>
+<!-- pop up -->
 <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/jquery.magnific-popup.min.js">
 </script>
+<!-- icons -->
+<script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
 
 <script>
 $('.open-popup-link').magnificPopup({
