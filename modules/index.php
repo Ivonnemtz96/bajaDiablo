@@ -23,7 +23,7 @@
                 <div class="global-img col-span-4 sm:col-span-12 res:col-span-12">
                     <div class="item-content">
                         <div class="img-header">
-                            <a class="pattern" href="/menu">
+                            <a href="#test-modal" class="pattern open-popup-link" >
                             <h3  style="margin-bottom: -8rem; margin-left: 5rem; color:#fab21a;"> Menú</h3>
                                 <img style="width: 124px;" src="/img/menu.png?=1" alt="event-img" />  
                             </a>
@@ -33,7 +33,7 @@
                 <div class="global-counter col-span-4 sm:col-span-12 res:col-span-12">
                     <div class="item-content">
                         <div class="img-header">
-                            <a class="pattern" href="https://www.facebook.com/profile.php?id=100086428643391&sk=reviews">
+                            <a class="pattern" target="_blank" href="https://www.facebook.com/profile.php?id=100086428643391&sk=reviews">
                             <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;" > baja_diablo</h3>
                                 <img src="/img/face.png" alt="event-img" />
                             </a>
@@ -43,7 +43,7 @@
                 <div class="global-counter col-span-4 sm:col-span-12 res:col-span-12">
                     <div class="item-content">
                         <div class="img-header">
-                            <a class="pattern" href="https://www.instagram.com/baja_diablo/">
+                            <a class="pattern" target="_blank" href="https://www.instagram.com/baja_diablo/">
                             <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;"> @baja_diablo</h3>
                                 <img src="/img/insta.png" alt="event-img" />
                             </a>
@@ -78,8 +78,7 @@
                         </p>
                     </div>
                     <div class="global-buy" data-aos="fade-up">
-                        <a href="single-event.html" class="button-basic-1">Ver ubicación</a>
-                        <a href="#" class="button-basic-2">Ver galería</a>
+                        <a target="_blank" href="https://goo.gl/maps/oC72eYD4RQ41dZXu9" class="button-basic-1">Ver ubicación</a>
                     </div>
 
                 </div>
@@ -90,7 +89,7 @@
 
 
     <!-- BLOG LOOP -->
-    <div class="blog-loop">
+    <div class="blog-loop" id="galeria">
         <div class="container">
             <div class="news-title grid grid-cols-12">
                 <div class="the-title col-span-6 sm:col-span-12 res:col-span-12" data-aos="fade-up">
@@ -104,7 +103,7 @@
                     </p> -->
                 </div>
                 <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" data-aos="fade-up">
-                    <a href="blog.html" class="button-basic-1">Ver ubicación</a>
+                    <a target="_blank" href="https://goo.gl/maps/oC72eYD4RQ41dZXu9" class="button-basic-1">Ver ubicación</a>
                 </div>
             </div>
         </div>
@@ -264,31 +263,16 @@
             referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
-    <!-- BOOK TABLE -->
-    <div hidden class="book-table">
-        <div class="container">
-            <div class="book-wrap news-title grid grid-cols-12 gap-24">
-                <div class="the-title col-span-6 sm:col-span-12 res:col-span-12">
-                    <h5 class="head-title-2"></h5>
-                    <h2 class="head-title-1">
-                        Book A Table Now <span class="title-end">.</span>
-                    </h2>
-                    <p class="dugem-text">
-                        Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor. Sem nibh id
-                        elit. Duis sed odio sit amet nibh vulputate cursus a sit amet
-                        mauris.
-                    </p>
-                </div>
-                <div class="contact-form-style col-span-6 sm:col-span-12 res:col-span-12">
-                    <input type="text" name="your-name" size="40" placeholder="Name" />
-                    <input type="text" name="your-name" size="40" placeholder="Email" />
-                    <textarea name="your-message" cols="40" rows="10" placeholder="Text"></textarea>
-                    <input type="submit" value="Send" class="button-basic-1" />
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- BOOK TABLE END -->
 </section>
 <!-- SECTION END -->
+
+<!-- Abrir menú con pop up -->
+<!-- <div class="container white-popup mfp-hide" id="menu">
+    <img src="/img/menu.jpg" alt="">
+</div> -->
+
+<div id="test-modal" class="container white-popup mfp-hide" style="background-color: #fff; text-align: center; max-width: 60rem;">
+	<h1>Nuestro menú</h1>
+	<img src="/img/menu.jpg" alt="">
+	<p><a class="popup-modal-dismiss" href="#">Regresar</a></p>
+</div>

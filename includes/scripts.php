@@ -10,3 +10,16 @@
 <script src="/js/swiper-bundle.min.js"></script>
 <script src="/js/lightgallery.min.js"></script>
 <script src="/js/aos.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/jquery.magnific-popup.min.js"></script>
+
+<script>
+        $('.open-popup-link').magnificPopup({
+  type: 'inline',
+  midClick: true,
+  mainClass: 'mfp-fade'
+});
+$(document).on('click', '.popup-modal-dismiss', function (e) {
+		e.preventDefault();
+		$.magnificPopup.close();
+	});
+    </script>

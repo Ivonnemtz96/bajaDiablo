@@ -1,7 +1,6 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <!-- SYLESHEETS
-            ============================================= -->
+    <!-- SYLESHEETS=============================== -->
     <link rel="stylesheet" href="/css/aos.css" type="text/css" />
     <link rel="stylesheet" href="/css/style1.css" type="text/css" />
     <link rel="stylesheet" href="/css/swiper.min.css" type="text/css" />
@@ -18,11 +17,10 @@
     <script>
     document.documentElement.className = "js";
     </script>
-    <!-- EXTERNAL STYLES
-            ============================================= -->
+    <!-- EXTERNAL STYLES======================================= -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-
-    <!-- DOCUMENT TITLES
-            ============================================= -->
+     <!-- magnific popup -->
+     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/jquery.magnific-popup/1.0.0/magnific-popup.css">
+    <!-- DOCUMENT TITLES================================== -->
     <title>Dugem | Dugem HTML Themes</title>
 </head>
