@@ -4,8 +4,6 @@
     <div class="main-video">
         <div class="image-background"></div>
         <div class="image-title mt-5">
-
-            <a href="#" class="button-basic-1" data-aos="fade-up">Ver galería</a>
         </div>
         <div class="video-background">
             <video autoplay muted loop id="myVideo">
@@ -14,15 +12,53 @@
         </div>
     </div>
     <!-- MAIN VIDEO BACKGROUND END -->
+
+
     <!-- GlOBAL BLOCK -->
     <div class="global-block">
+        <div class="container text-center" style="margin-bottom: 5rem;">
+        <h2 data-aos="fade-up" style="color: #fff; margin-bottom: 5rem;">¿Ya nos conoces?</h2>
+            <div data-aos="fade-up" class="global-block-wrap grid grid-cols-12 gap-8">
+                <div class="global-img col-span-4 sm:col-span-12 res:col-span-12">
+                    <div class="item-content">
+                        <div class="img-header">
+                            <a class="pattern" href="/menu">
+                            <h3  style="margin-bottom: -8rem; margin-left: 5rem; color:#fab21a;"> Menú</h3>
+                                <img style="width: 124px;" src="/img/menu.png" alt="event-img" />  
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="global-counter col-span-4 sm:col-span-12 res:col-span-12">
+                    <div class="item-content">
+                        <div class="img-header">
+                            <a class="pattern" href="https://www.facebook.com/profile.php?id=100086428643391&sk=reviews">
+                            <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;" > baja_diablo</h3>
+                                <img src="/img/face.png" alt="event-img" />
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="global-counter col-span-4 sm:col-span-12 res:col-span-12">
+                    <div class="item-content">
+                        <div class="img-header">
+                            <a class="pattern" href="https://www.instagram.com/baja_diablo/">
+                            <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;"> @baja_diablo</h3>
+                                <img src="/img/insta.png" alt="event-img" />
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
         <div class="container">
             <div class="global-block-wrap grid grid-cols-12 gap-8">
                 <div class="global-img col-span-5 sm:col-span-12 res:col-span-12">
                     <div class="item-content">
                         <div class="img-header">
                             <a class="pattern" href="#">
-                                <img src="/img/event-img.png" alt="event-img" />
+                                <img src="/img/event-img.webp" alt="event-img" />
                             </a>
                         </div>
                     </div>
@@ -30,13 +66,14 @@
                 <div class="global-counter col-span-7 sm:col-span-12 res:col-span-12">
                     <div class="global-title">
                         <a href="#" class="button-basic-1">Nosotros</a>
-                        <h2 data-aos="fade-up">En Baja diablo</h2>
-                        <h5 data-aos="fade-up">El único drama que encontrarás será en nuestras bebidas</h5>
+                        <h2 data-aos="fade-up">Baja Diablo</h2>
+                        <h5 data-aos="fade-up">Si nunca te has topado con el Diablo, es porque no has probado unas
+                            micheladas de verdad.</h5>
                         <p class="dugem-text" data-aos="fade-up">
-                            Los clientes pueden disfrutar de una amplia variedad de micheladas, desde
-                            las clásicas hasta las más creativas y atrevidas, con ingredientes como camarones, frutas y
-                            salsas únicas. Baja Diablo es un lugar perfecto para reunirse con amigos, disfrutar de una
-                            buena bebida y experimentar los sabores únicos de las micheladas.
+                            Desde lo más clásico, hasta lo más atrevido. <br>
+                            Prueba nuestro chamoy hecho artesanalmente por nosotros, salsas únicas que nos caracterizan
+                            y combinaciones que puedes encontrar sólo aquí. <br>
+                            Este es el lugar perfecto para buenos momentos, buenos drinks y buenas amistades.
                         </p>
                     </div>
                     <div class="global-buy" data-aos="fade-up">
@@ -49,6 +86,8 @@
         </div>
     </div>
     <!-- GlOBAL BLOCK END -->
+
+
     <!-- BLOG LOOP -->
     <div class="blog-loop">
         <div class="container">
@@ -56,7 +95,7 @@
                 <div class="the-title col-span-6 sm:col-span-12 res:col-span-12" data-aos="fade-up">
                     <h4 class="head-title-2">La vida es mejor con una michelada en la mano.</h4>
                     <h2 class="head-title-1">
-                        Micheladas únicas, para personas únicas. <span class="title-end">.</span>
+                        Sabores únicos, para personas únicas. <span class="title-end">.</span>
                     </h2>
                     <!-- <p class="dugem-text">
                         Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
@@ -75,7 +114,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="/img/latest-blog-news-1.png" alt="latest-news-img-1" />
+                                    <img src="/img/latest-blog-news-1.jpg" alt="latest-news-img-1" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -86,7 +125,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="/img/latest-blog-news-2.png" alt="latest-news-img-2" />
+                                    <img src="/img/latest-blog-news-2.jpg" alt="latest-news-img-2" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -96,7 +135,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="/img/latest-blog-news-3.png" alt="latest-news-img-3" />
+                                    <img src="/img/latest-blog-news-3.jpg" alt="latest-news-img-3" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -106,7 +145,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="/img/latest-blog-news-4.png" alt="latest-news-img-4" />
+                                    <img src="/img/latest-blog-news-4.jpg" alt="latest-news-img-4" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -116,7 +155,7 @@
                         <div class="swiper-post">
                             <div class="post-thumb">
                                 <a>
-                                    <img src="/img/latest-blog-news-5.png" alt="latest-news-img-5" />
+                                    <img src="/img/latest-blog-news-5.jpg" alt="latest-news-img-5" />
                                     <div class="dugem-overlay"></div>
                                 </a>
                             </div>
@@ -217,6 +256,12 @@
         </div>
     </div>
     <!-- TESTIMONIAL BLOCK END -->
+    <div class="container-fluid">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d867.304913462426!2d-109.90769248247524!3d22.894536197283024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b1bb1e1a0f5%3A0xd00fca6288dd8413!2sMicheladas%20Baja%20Diablo!5e0!3m2!1ses-419!2smx!4v1679610666292!5m2!1ses-419!2smx"
+            width="100%" height="750" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
 
     <!-- BOOK TABLE -->
     <div hidden class="book-table">

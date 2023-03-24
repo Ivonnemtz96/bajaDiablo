@@ -6,7 +6,6 @@
 <body class="demo-1">
        <div class="main-wrapper clearfix">
        <?php
-        include("includes/header.php");
         include("modules/index.php");
         include("includes/whats.php");
         include("includes/footer.php");
