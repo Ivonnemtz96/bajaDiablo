@@ -25,7 +25,7 @@
                         <div class="img-header">
                             <a href="#test-modal" class="pattern open-popup-link" >
                             <h3  style="margin-bottom: -8rem; margin-left: 5rem; color:#fab21a;"> Menú</h3>
-                                <img style="width: 124px;" src="/img/menu.png?=1" alt="event-img" />  
+                                <img style="width: 80px;" src="/img/menu2.png?=1" alt="event-img" />  
                             </a>
                         </div>
                     </div>
@@ -34,8 +34,8 @@
                     <div class="item-content">
                         <div class="img-header">
                             <a class="pattern" target="_blank" href="https://www.facebook.com/profile.php?id=100086428643391">
-                            <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;" > baja_diablo</h3>
-                                <img src="/img/face.png" alt="event-img" />
+                            <h3 style=";margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;" > baja_diablo</h3>
+                                <img  src="/img/face.png" alt="event-img" />
                             </a>
                         </div>
                     </div>
@@ -45,7 +45,7 @@
                         <div class="img-header">
                             <a class="pattern" target="_blank" href="https://www.instagram.com/baja_diablo/">
                             <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;"> @baja_diablo</h3>
-                                <img src="/img/insta.png" alt="event-img" />
+                                <img  src="/img/insta.png" alt="event-img" />
                             </a>
                         </div>
                     </div>
