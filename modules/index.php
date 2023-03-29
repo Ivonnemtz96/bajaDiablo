@@ -18,14 +18,14 @@
     <!-- GlOBAL BLOCK -->
     <div class="global-block">
         <div class="container text-center" style="margin-bottom: 5rem;">
-        <h2 data-aos="fade-up" style="color: #fff; margin-bottom: 5rem;">¿Ya nos conoces?</h2>
+            <h2 data-aos="fade-up" style="color: #fff; margin-bottom: 5rem;">¿Ya nos conoces?</h2>
             <div data-aos="fade-up" class="global-block-wrap grid grid-cols-12 gap-8">
                 <div class="global-img col-span-4 sm:col-span-12 res:col-span-12">
                     <div class="item-content">
                         <div class="img-header">
-                            <a href="#test-modal" class="pattern open-popup-link" >
-                            <h3  style="margin-bottom: -8rem; margin-left: 5rem; color:#fab21a;"> Menú</h3>
-                                <img style="width: 80px;" src="/img/menu2.png?=1" alt="event-img" />  
+                            <a href="#test-modal" class="pattern open-popup-link">
+                                <h3 style="margin-bottom: -8rem; margin-left: 5rem; color:#fab21a;"> Menú</h3>
+                                <img style="width: 80px;" src="/img/menu2.png?=1" alt="event-img" />
                             </a>
                         </div>
                     </div>
@@ -33,9 +33,10 @@
                 <div class="global-counter col-span-4 sm:col-span-12 res:col-span-12">
                     <div class="item-content">
                         <div class="img-header">
-                            <a class="pattern" target="_blank" href="https://www.facebook.com/profile.php?id=100086428643391">
-                            <h3 style=";margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;" > baja_diablo</h3>
-                                <img  src="/img/face.png" alt="event-img" />
+                            <a class="pattern" target="_blank"
+                                href="https://www.facebook.com/profile.php?id=100086428643391">
+                                <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;"> baja_diablo</h3>
+                                <img src="/img/face.png" alt="event-img" />
                             </a>
                         </div>
                     </div>
@@ -44,8 +45,8 @@
                     <div class="item-content">
                         <div class="img-header">
                             <a class="pattern" target="_blank" href="https://www.instagram.com/baja_diablo/">
-                            <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;"> @baja_diablo</h3>
-                                <img  src="/img/insta.png" alt="event-img" />
+                                <h3 style="margin-bottom: -5rem;margin-left: 5rem; color:#fab21a;"> @baja_diablo</h3>
+                                <img src="/img/insta.png" alt="event-img" />
                             </a>
                         </div>
                     </div>
@@ -76,9 +77,17 @@
                             y combinaciones que puedes encontrar sólo aquí. <br>
                             Este es el lugar perfecto para buenos momentos, buenos drinks y buenas amistades.
                         </p>
+                        <p class="dugem-text" data-aos="fade-up">
+                            En Baja Diablo, no solo nos enfocamos en crear las mejores micheladas, sino también en
+                            ofrecer los ingredientes más auténticos y de calidad para que nuestras bebidas sean únicas.
+                            Nuestro chamoy es preparado en pequeñas cantidades, cuidadosamente. Si eres un amante del
+                            sabor auténtico y de la calidad, no puedes perderte nuestras micheladas con chamoy
+                            artesanal, una experiencia única que solo encontrarás en Baja Diablo.
+                        </p>
                     </div>
                     <div class="global-buy" data-aos="fade-up">
-                        <a target="_blank" href="https://goo.gl/maps/oC72eYD4RQ41dZXu9" class="button-basic-1">Ver ubicación</a>
+                        <a target="_blank" href="https://goo.gl/maps/oC72eYD4RQ41dZXu9" class="button-basic-1">Ver
+                            ubicación</a>
                     </div>
 
                 </div>
@@ -103,7 +112,8 @@
                     </p> -->
                 </div>
                 <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" data-aos="fade-up">
-                    <a target="_blank" href="https://goo.gl/maps/oC72eYD4RQ41dZXu9" class="button-basic-1">Ver ubicación</a>
+                    <a target="_blank" href="https://goo.gl/maps/oC72eYD4RQ41dZXu9" class="button-basic-1">Ver
+                        ubicación</a>
                 </div>
             </div>
         </div>
@@ -201,7 +211,7 @@
                                     </p>
                                 </div>
                                 <div class="testimonial-detail-inner">
-                                    
+
                                     <div class="test-info">
                                         <h5 class="testi-author">Lalo Giles</h5>
                                     </div>
@@ -216,7 +226,7 @@
                                     </p>
                                 </div>
                                 <div class="testimonial-detail-inner">
-                                   
+
                                     <div class="test-info">
                                         <h5 class="testi-author">Luis Manuel Higuera Magaña</h5>
                                     </div>
@@ -235,7 +245,7 @@
                                     </p>
                                 </div>
                                 <div class="testimonial-detail-inner">
-                                   
+
                                     <div class="test-info">
                                         <h5 class="testi-author">Jose Ochoa</h5>
                                     </div>
@@ -265,8 +275,9 @@
     <img src="/img/menu.jpg" alt="">
 </div> -->
 
-<div id="test-modal" class="container white-popup mfp-hide" style="background-color: #fff; text-align: center; max-width: 60rem;">
-	<h1>Nuestro menú</h1>
-	<img src="/img/menu.jpg" alt="">
-	<p><a class="popup-modal-dismiss" href="#">Regresar</a></p>
+<div id="test-modal" class="container white-popup mfp-hide"
+    style="background-color: #fff; text-align: center; max-width: 60rem;">
+    <h1>Nuestro menú</h1>
+    <img src="/img/menu.jpg" alt="">
+    <p><a class="popup-modal-dismiss" href="#">Regresar</a></p>
 </div>

@@ -162,7 +162,54 @@
 .fb-float:hover i {
     transform: rotate(360deg);
 }
+/* **************************** */
 
+.tiktok-float {
+    position: fixed;
+    transform: translate(108px, 0px);
+    top: 430px;
+    right: 0;
+    width: 150px;
+    overflow: hidden;
+    background-color: #000;
+    color: #FFF;
+    border-radius: 2px 0 0 2px;
+    z-index: 10;
+    transition: all 0.5s ease-in-out;
+    vertical-align: middle
+}
+
+.tiktok-float a span {
+    color: white;
+    font-size: 15px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+    position: absolute;
+    line-height: 16px;
+    font-weight: bolder;
+}
+
+.tiktok-float i {
+    font-size: 30px;
+    color: white;
+    line-height: 30px;
+    padding: 10px;
+    transform: rotate(0deg);
+    transition: all 0.5s ease-in-out;
+    text-align: center;
+
+}
+
+.tiktok-float:hover {
+    color: #FFFFFF;
+    transform: translate(0px, 0px);
+}
+
+.tiktok-float:hover i {
+    transform: rotate(360deg);
+}
+
+/* ********************************* */
 .margen-menu {
     margin: 0 150px;
 }
@@ -199,5 +246,11 @@
 <div class="fb-float">
     <a href="https://www.facebook.com/profile.php?id=100086428643391" target="_blank">
         <i style="margin: 0px;" class="fab fa-facebook"></i><span>Facebook<br><small>baja_diablo</small></span>
+    </a>
+</div>
+
+<div class="tiktok-float">
+    <a href="https://www.tiktok.com/@baja_diablo" target="_blank">
+        <i style="margin: 0px;" class="fab fa-tiktok"></i><span>Tiktok<br><small>Baja_diablo</small></span>
     </a>
 </div>
