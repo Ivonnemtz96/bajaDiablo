@@ -67,7 +67,7 @@
                 </div>
                 <div class="global-counter col-span-7 sm:col-span-12 res:col-span-12">
                     <div class="global-title">
-                        <a href="#" class="button-basic-1">Nosotros</a>
+                        <h3 data-aos="fade-up" style="color:#fff;" class="">Nosotros</h3>
                         <h2 data-aos="fade-up">Baja Diablo</h2>
                         <h5 data-aos="fade-up">Si nunca te has topado con el Diablo, es porque no has probado unas
                             micheladas de verdad.</h5>
@@ -85,7 +85,7 @@
                             artesanal, una experiencia única que solo encontrarás en Baja Diablo.
                         </p>
                     </div>
-                    <div class="global-buy" data-aos="fade-up">
+                    <div style="z-index:999;" class="global-buy" data-aos="fade-up">
                         <a target="_blank" href="https://goo.gl/maps/oC72eYD4RQ41dZXu9" class="button-basic-1">Ver
                             ubicación</a>
                     </div>
@@ -278,6 +278,7 @@
 <div id="test-modal" class="container white-popup mfp-hide"
     style="background-color: #fff; text-align: center; max-width: 60rem;">
     <h1>Nuestro menú</h1>
-    <img src="/img/menu.jpg" alt="">
+    <img src="/img/menu1.jpg" style="margin-bottom: 1rem;" alt="">
+    <img src="/img/menu2.jpg" style="margin-top: 1rem;"alt="">
     <p><a class="popup-modal-dismiss" href="#">Regresar</a></p>
 </div>
