@@ -278,7 +278,13 @@
 <div id="test-modal" class="container white-popup mfp-hide"
     style="background-color: #fff; text-align: center; max-width: 60rem;">
     <h1>Nuestro menú</h1>
-    <img src="/img/menu1.jpg" style="margin-bottom: 1rem;" alt="">
-    <img src="/img/menu2.jpg" style="margin-top: 1rem;"alt="">
+    <img src="/img/1.jpg" style="margin-bottom: 1rem;" alt="">
+    <img src="/img/2.jpg" style="margin-top: 1rem;"alt="">
+    <img src="/img/3.jpg" style="margin-top: 1rem;"alt="">
+    <img src="/img/4.jpg" style="margin-top: 1rem;"alt="">
+    <img src="/img/5.jpg" style="margin-top: 1rem;"alt="">
+    <img src="/img/6.jpg" style="margin-top: 1rem;"alt="">
+    <img src="/img/7.jpg" style="margin-top: 1rem;"alt="">
+    <img src="/img/8.jpg" style="margin-top: 1rem;"alt="">
     <p><a class="popup-modal-dismiss" href="#">Regresar</a></p>
 </div>
