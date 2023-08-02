@@ -23,7 +23,7 @@
                 <div class="global-img col-span-4 sm:col-span-12 res:col-span-12">
                     <div class="item-content">
                         <div class="img-header">
-                            <a href="#test-modal" class="pattern open-popup-link">
+                            <a href="#menus" class="pattern ">
                                 <h3 style="margin-bottom: -8rem; margin-left: 5rem; color:#fab21a;"> Menú</h3>
                                 <img style="width: 80px;" src="/img/menu2.png?=1" alt="event-img" />
                             </a>
@@ -96,9 +96,52 @@
     </div>
     <!-- GlOBAL BLOCK END -->
 
+    <!-- SECTION START -->
+    <section>
+        <div class="single-event-wrap" id="menus">
+            <div class="event-related-content clearfix">
+                <div class="container clearfix">
+                    <h3 class="text-center text-white">Nuestro Menú</h3>
+                    <div class="event-related-content-wrap grid grid-cols-12 gap-12">
+
+                        <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix">
+                            <a href="#eng" class="open-popup-link">
+                                <div class="post-thumb">
+                                    <img src="img/related-event-3.jpg" alt="related-event-2">
+                                    <div class="dugem-overlay"></div>
+                                </div>
+                            </a>
+                            <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" style="margin-top: 3rem;"
+                                data-aos="fade-up">
+                                <a href="#eng"
+                                    class="button-basic-1 open-popup-link">English</a>
+                            </div>
+                        </div>
+
+                        <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix"></div>
+                        <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix">
+                            <a href="#test-modal" class="open-popup-link">
+                                <div class="post-thumb">
+                                    <img src="img/related-event-2.jpg" alt="related-event-3">
+                                    <div class="dugem-overlay"></div>
+                                </div>
+                            </a>
+
+                            <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" style="margin-top: 3rem;"
+                                data-aos="fade-up">
+                                <a href="#test-modal"
+                                    class="button-basic-1 open-popup-link">Español</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
 
     <!-- BLOG LOOP -->
-    <div class="blog-loop" id="galeria">
+    <div class="blog-loop" style="margin-top: 3rem; position: static;" id="galeria">
         <div class="container">
             <div class="news-title grid grid-cols-12">
                 <div class="the-title col-span-6 sm:col-span-12 res:col-span-12" data-aos="fade-up">
@@ -279,12 +322,27 @@
     style="background-color: #fff; text-align: center; max-width: 60rem;">
     <h1>Nuestro menú</h1>
     <img src="/img/1.jpg" style="margin-bottom: 1rem;" alt="">
-    <img src="/img/2.jpg" style="margin-top: 1rem;"alt="">
-    <img src="/img/3.jpg" style="margin-top: 1rem;"alt="">
-    <img src="/img/4.jpg" style="margin-top: 1rem;"alt="">
-    <img src="/img/5.jpg" style="margin-top: 1rem;"alt="">
-    <img src="/img/6.jpg" style="margin-top: 1rem;"alt="">
-    <img src="/img/7.jpg" style="margin-top: 1rem;"alt="">
-    <img src="/img/8.jpg" style="margin-top: 1rem;"alt="">
+    <img src="/img/2.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/3.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/4.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/5.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/6.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/7.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/8.jpg" style="margin-top: 1rem;" alt="">
+    <p><a class="popup-modal-dismiss" href="#">Regresar</a></p>
+</div>
+
+
+<div id="eng" class="container white-popup mfp-hide"
+    style="background-color: #fff; text-align: center; max-width: 60rem;">
+    <h1>Our Menu</h1>
+    <img src="/img/eng/01.jpg" style="margin-bottom: 1rem;" alt="">
+    <img src="/img/eng/02.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/eng/03.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/eng/04.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/eng/05.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/eng/06.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/eng/07.jpg" style="margin-top: 1rem;" alt="">
+    <img src="/img/eng/08.jpg" style="margin-top: 1rem;" alt="">
     <p><a class="popup-modal-dismiss" href="#">Regresar</a></p>
 </div>
