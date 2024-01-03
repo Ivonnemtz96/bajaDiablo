@@ -53,10 +53,10 @@
 }
 
 .whats-float i {
-    font-size: 26px;
+    font-size: 30px;
     color: white;
     line-height: 30px;
-    padding: 8px;
+    padding: 10px;
     transform: rotate(0deg);
     transition: all 0.5s ease-in-out;
     text-align: center;
@@ -100,10 +100,10 @@
 }
 
 .insta-float i {
-    font-size: 26px;
+    font-size: 30px;
     color: white;
     line-height: 30px;
-    padding: 8px;
+    padding: 10px;
     transform: rotate(0deg);
     transition: all 0.5s ease-in-out;
     text-align: center;
@@ -147,10 +147,10 @@
 }
 
 .fb-float i {
-    font-size: 26px;
+    font-size: 30px;
     color: white;
     line-height: 30px;
-    padding: 8px;
+    padding: 10px;
     transform: rotate(0deg);
     transition: all 0.5s ease-in-out;
     text-align: center;
@@ -165,7 +165,6 @@
 .fb-float:hover i {
     transform: rotate(360deg);
 }
-
 /* **************************** */
 
 .tiktok-float {
@@ -195,10 +194,10 @@
 }
 
 .tiktok-float i {
-    font-size: 26px;
+    font-size: 30px;
     color: white;
     line-height: 30px;
-    padding: 8px;
+    padding: 10px;
     transform: rotate(0deg);
     transition: all 0.5s ease-in-out;
     text-align: center;
@@ -232,32 +231,29 @@
         max-width: 200px
     }
 }
-.radius{
-    border-radius: 30px;
-    text-align: center;
-}
 </style>
 
-<div class="whats-float radius" >
-    <a href="https://wa.me/+526242133413?text=Hola%20me%20gustaría%20más%20información." target="_blank">
-        <i class="fab fa-whatsapp"></i>
+<div class="whats-float">
+    <a href="https://wa.me/+526242133413?text=Hola%20me%20gustaría%20más%20información."
+        target="_blank">
+        <i class="fab fa-whatsapp"></i><span>WhatsApp<br><small>6242133413</small></span>
     </a>
 </div>
 
-<div class="insta-float radius">
+<div class="insta-float">
     <a href="https://www.instagram.com/baja_diablo/" target="_blank">
-        <i style="margin: 0px;" class="fab fa-instagram"></i>
+    <i style="margin: 0px;" class="fab fa-instagram"></i><span>Instagram<br><small>@baja_diablo</small></span>
     </a>
 </div>
 
-<div class="fb-float radius">
+<div class="fb-float">
     <a href="https://www.facebook.com/profile.php?id=100086428643391" target="_blank">
-        <i style="margin: 0px;" class="fab fa-facebook"></i>
+        <i style="margin: 0px;" class="fab fa-facebook"></i><span>Facebook<br><small>baja_diablo</small></span>
     </a>
 </div>
 
-<div class="tiktok-float radius">
+<div class="tiktok-float">
     <a href="https://www.tiktok.com/@baja_diablo" target="_blank">
-        <i style="margin: 0px;" class="fab fa-tiktok"></i>
+        <i style="margin: 0px;" class="fab fa-tiktok"></i><span>Tiktok<br><small>Baja_diablo</small></span>
     </a>
 </div>
