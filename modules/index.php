@@ -105,33 +105,31 @@
                     <div class="event-related-content-wrap grid grid-cols-12 gap-12">
 
                         <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix">
+                            <div class="button-view col-span-6 sm:col-span-12 res:col-span-12"
+                                style="margin-bottom: 5rem;" data-aos="fade-up">
+                                <a href="#eng" class="button-basic-1 open-popup-link">English</a>
+                            </div>
                             <a href="#eng" class="open-popup-link">
                                 <div class="post-thumb">
                                     <img src="img/related-event-3.jpg" alt="related-event-2">
                                     <div class="dugem-overlay"></div>
                                 </div>
                             </a>
-                            <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" style="margin-top: 3rem;"
-                                data-aos="fade-up">
-                                <a href="#eng"
-                                    class="button-basic-1 open-popup-link">English</a>
-                            </div>
+
                         </div>
 
                         <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix"></div>
                         <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix">
+                            <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" style="margin-bottom:5rem;"
+                                data-aos="fade-up">
+                                <a href="#test-modal" class="button-basic-1 open-popup-link">Español</a>
+                            </div>
                             <a href="#test-modal" class="open-popup-link">
                                 <div class="post-thumb">
                                     <img src="img/related-event-2.jpg" alt="related-event-3">
                                     <div class="dugem-overlay"></div>
                                 </div>
                             </a>
-
-                            <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" style="margin-top: 3rem;"
-                                data-aos="fade-up">
-                                <a href="#test-modal"
-                                    class="button-basic-1 open-popup-link">Español</a>
-                            </div>
                         </div>
                     </div>
                 </div>
