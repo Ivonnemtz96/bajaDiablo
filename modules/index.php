@@ -120,8 +120,8 @@
 
                         <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix"></div>
                         <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix">
-                            <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" style="margin-bottom:5rem;"
-                                data-aos="fade-up">
+                            <div class="button-view col-span-6 sm:col-span-12 res:col-span-12"
+                                style="margin-bottom:5rem;" data-aos="fade-up">
                                 <a href="#test-modal" class="button-basic-1 open-popup-link">Español</a>
                             </div>
                             <a href="#test-modal" class="open-popup-link">
@@ -301,14 +301,54 @@
         </div>
     </div>
     <!-- TESTIMONIAL BLOCK END -->
-    <div class="container-fluid">
-        <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d867.304913462426!2d-109.90769248247524!3d22.894536197283024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b1bb1e1a0f5%3A0xd00fca6288dd8413!2sMicheladas%20Baja%20Diablo!5e0!3m2!1ses-419!2smx!4v1679610666292!5m2!1ses-419!2smx"
-            width="100%" height="750" style="border:0;" allowfullscreen="" loading="lazy"
-            referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-
 </section>
+
+
+<section>
+    <div class="single-event-wrap" id="menus">
+        <div class="event-related-content clearfix">
+            <div class="container clearfix">
+                <h3 class="text-center text-white">Nuestra Ubicación</h3>
+                <div class="event-related-content-wrap grid grid-cols-12 gap-12">
+
+                    <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix">
+                        <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" style="margin-bottom: 5rem;">
+                            <h3 style="color:#fff">Cabo San Lucas</h3>
+                        </div>
+
+                        <div class="post-thumb">
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d867.304913462426!2d-109.90769248247524!3d22.894536197283024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4b1bb1e1a0f5%3A0xd00fca6288dd8413!2sMicheladas%20Baja%20Diablo!5e0!3m2!1ses-419!2smx!4v1679610666292!5m2!1ses-419!2smx"
+                                width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <div class="dugem-overlay"></div>
+                        </div>
+
+
+                    </div>
+
+                    <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix"></div>
+                    <div class="col-span-4 sm:col-span-12 res:col-span-12 content-related-post clearfix">
+                        <div class="button-view col-span-6 sm:col-span-12 res:col-span-12" style="margin-bottom:5rem;">
+                           <h3 style="color:#fff">San José del Cabo</h3>
+                        </div>
+                        
+                            <div class="post-thumb">
+                                <iframe
+                                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d771.7398707258671!2d-109.69285795907983!3d23.059208421167778!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af51c2818676b7%3A0x7630d0c3519532a0!2sBaja%20Diablo%20San%20Jos%C3%A9%20del%20Cabo!5e0!3m2!1ses-419!2smx!4v1704482144917!5m2!1ses-419!2smx"
+                                    width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                                    referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <div class="dugem-overlay"></div>
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <!-- SECTION END -->
 
 <!-- Abrir menú con pop up -->
